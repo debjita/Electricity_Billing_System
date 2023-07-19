@@ -39,6 +39,7 @@ Manage: To create, view, update details of customers and to maintain proper info
   
   Logout: To Log out of the application when necessary actions have been performed.
 
+  
 4.Home Page (Logged in as Customer)
   Information: To update and view Information of the Customer.
   
